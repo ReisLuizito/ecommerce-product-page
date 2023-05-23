@@ -417,3 +417,13 @@ nav {
   padding: var(--sizer-1);
   width: 100%;
 }
+
+.attribution {
+  font-size: 14px;
+  text-align: center;
+  
+}
+
+.attribution a {
+  color: hsl(0, 0%, 0%);
+}
